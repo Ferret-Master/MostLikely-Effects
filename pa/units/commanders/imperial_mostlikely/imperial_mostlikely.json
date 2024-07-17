@@ -112,6 +112,11 @@
     ],
     "fx_offsets": [
         {
+            "type": "build",
+            "filename": "/pa/effects/specs/fab_spray.pfx",
+            "bone": "socket_leftMuzzle"
+          },
+        {
             "type": "idle",
             "filename": "/pa/units/commanders/imperial_mostlikely/helmet.pfx",
             "bone": "bone_spine",
